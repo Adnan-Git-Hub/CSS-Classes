@@ -1,0 +1,9 @@
+h1{
+    background-color: purple;
+    color: white;
+    opacity: 0.5;
+}
+a{
+    background-color: rgba(138, 165, 42, 0.9); color: white;
+    text-decoration: none;
+}
