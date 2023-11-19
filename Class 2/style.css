@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Adnan' ;
+    src: url('./PlayfairDisplay-VariableFont_wght.ttf');
+}
+p{
+    font-family: Adnan ;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-size: xx-large;
+   font-weight: 600;
+   font-style: italic;
+   text-transform: capitalize;
+   line-height: 200%;
+   word-spacing: 20px;
+   letter-spacing: 20px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    text-shadow: 10px 10px 10px red;
+    box-shadow: 10px 10px 10px blue;
+    background-color: aqua;
+}
+p::first-letter{
+    font-size: 80px;
+}
+p::first-line{
+    font-size: 50px;
+}
+input{
+    background-color: aqua;
+}
+input:hover{
+    background-color: blue;
+}
+input:active{
+    background-color: yellow;
+}
+input:focus{
+    background-color: red;
+}
+a{
+    background-color: aqua;
+}
+a:visited{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
