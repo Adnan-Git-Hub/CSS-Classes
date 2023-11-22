@@ -1,0 +1,25 @@
+.Main{
+    box-shadow: 10px 10px;
+    text-shadow: 10px 10px 10px red;
+    border-radius: 20px;
+    background-color: aqua;
+    width: 50%;
+    border: 10px groove blue;
+    /* margin: 60px; */
+    margin: auto;
+    padding: 20px;
+    /* margin-top: 50px; */
+    /* margin-top: 30px; */
+    /* margin-left: 80px; */
+    /* border-width: 50%; */
+    /* border-color: black; */
+    /* border-style: dashed; */
+    /* height: 150px; */
+    /* overflow: scroll; */
+
+}
+a{
+    color: black;
+    padding-left: 100px;
+    text-decoration: none;
+}
