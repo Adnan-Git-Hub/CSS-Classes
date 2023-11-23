@@ -1,0 +1,76 @@
+ul{
+    /* list-style: lower-roman; */
+    /* list-style-position: inside; */
+    list-style: lower-alpha inside;
+}
+table{
+    border: 8px solid black;
+    margin: auto;
+    background-color: aqua;
+    width: 50%;
+    padding: 5px;
+    border-spacing: 10px;
+}
+table,th,td{
+    border: 4px solid black;
+    padding: 5px;
+    /* border-collapse: collapse; */
+}
+.abc{
+    background-color: brown;
+}
+.a{
+    background-color: blue;
+    color: aliceblue;
+}
+#b{
+    background-color: yellow;
+}
+td{
+    text-align: center;
+}
+td:hover{
+    background-color: black;
+    color: aliceblue;
+    transform: scale(1.2);
+    
+}
+
+
+#pass{
+    background-image: url('./eye-key-look-password-security-see.svg');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 20px;
+    
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
