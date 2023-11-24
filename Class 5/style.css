@@ -1,0 +1,62 @@
+ul>li{
+    display: inline-block;
+    width: 200px;
+}
+ul{
+    background-color: aqua;
+    position: sticky;
+    /* position: fixed; */
+    top: 0%;
+}
+ul>button{
+    position: relative;
+}
+
+
+
+/* body{
+    background-color: gray;
+}
+
+
+
+/* /* .black{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+.white{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block; */
+/* } */ */
+/* img{ */
+    /* position: absolute; */
+    /* top: 10px; */
+    /* left: 10px; */
+/* position: relative; */
+/* top: 0px; */
+/* right: 825px; */
+
+/* } */ */
+/*  */
+
+.black{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+display: inline-block;
+
+}
+.white{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+display: inline-block;
+
+}
+
+
